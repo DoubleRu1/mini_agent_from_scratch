@@ -123,9 +123,8 @@ def agent_execute(query , max_request_time = 3):
 
 def main():
     max_request_time = 10
-    "持续监视用户调用"
     while True:
-        query = input("请输入您的问题，输入exit以退出:")
+        query = input("Please input your query, input exit to exit:")
         if query.lower() == "exit":
             print("对话已结束.")
             break
