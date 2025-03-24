@@ -1,0 +1,18 @@
+# Shenzhen House Prices
+
+According to the latest data, the average cost of a house in Shenzhen, China is 783,855 USD or 6.1 million HKD, with an average price per square foot of 783 USD. In 2022, the average price of second-hand houses in Shenzhen was approximately 67,622 yuan/square meter.
+
+In 2023, the property price for residential real estate in Shenzhen was reported at 48,831.692 RMB/sq m. This records a decrease from the previous number of 54,437.032 RMB/sq m for 2022.
+
+For more information on Shenzhen's housing market, please refer to the following sources:
+- [China Index Academy](https://www.chinaindex.com)
+- [Leyoujia.com](https://www.leyoujia.com)# Shenzhen House Prices
+
+According to recent data, the average cost of a house in Shenzhen, China is 783,855 USD or 6.1 million HKD, with an average price per square foot of 783 USD. In 2023, the average price for residential real estate in Shenzhen was 48,831.692 RMB/sq m, which records a decrease from the previous number of 54,437.032 RMB/sq m for 2022.
+
+| Year | Price (RMB/sq m) |
+| --- | --- |
+| 2023 | 48,831.692 |
+| 2022 | 54,437.032 |
+| 2021 | 60,069.390 |
+| 1999 | 5,004.000 |
